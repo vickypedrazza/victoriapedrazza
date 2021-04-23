@@ -1,5 +1,6 @@
 - 👋 Hi, soy @victoriapedrazza
 - 🌱 Actualmente estoy haciendo un curso de Frontend
+  
   Intento aprender: 
   HTML
   CSS
