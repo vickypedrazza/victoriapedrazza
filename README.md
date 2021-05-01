@@ -1,10 +1,8 @@
 - 👋 Hi, soy @victoriapedrazza
 - 🌱 Actualmente estoy haciendo un curso de Frontend
   
-  Intento aprender: 
-  HTML
-  CSS
-  JavaScript
+  Tecnologias:
+  HTML, CSS, Javascript.
 
 <!---
 victoriapedrazza/victoriapedrazza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
