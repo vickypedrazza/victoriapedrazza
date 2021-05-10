@@ -1,7 +1,7 @@
 - 👋 Hi, soy @victoriapedrazza
 - 🌱 Actualmente estoy haciendo un curso de Frontend
   
-  Tecnologias:
+  💻Tecnologias:
   HTML, CSS, Javascript.
 
 ✨En constante aprendizaje.✨
